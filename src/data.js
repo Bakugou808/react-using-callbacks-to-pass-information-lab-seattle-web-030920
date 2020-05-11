@@ -8,7 +8,7 @@
 //   }
 //   return hex;
 // }
-
+ 
 // var getpix = require("get-pixels")
 
 // getpix("./src/learn_small.png", function(err, pixels) {
